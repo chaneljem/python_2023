@@ -11,7 +11,7 @@ services.append('dynamodb')
 services.append('s3')
 services.append('iam')
 
-# 3. Print the list and the lenght of the list
+# 3. Print the list and the length of the list
 print(services)
 print(len(services))
 
